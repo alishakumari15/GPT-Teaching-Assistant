@@ -129,8 +129,4 @@ Feel free to contribute! Submit a pull request or report issues.
 ## 📌 License
 This project is **open-source** and free to use.
 
----
-
-## 📌 Contact
-For any queries, reach out at **your-email@example.com**.
 
